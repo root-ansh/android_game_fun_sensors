@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sensorgame</string>
+    <string-array name="color_array">
+        <item >BLACK</item>
+        <item >BLUE</item>
+        <item >GREEN</item>
+        <item >CYAN</item>
+        <item >RED</item>
+        <item >PINK</item>
+        <item >YELLOW</item>
+        <item >WHITE</item>
+    </string-array>
+
+</resources>
